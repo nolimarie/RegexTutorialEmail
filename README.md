@@ -50,7 +50,7 @@ Parentheses `()` are used to group parts of the expression together. In `/^([a-z
 
 ### Bracket Expressions
 
-Brackets '[]` allow a regex to match specific characters in a range. Therefore `[a-z]` is not looking for a or - or z, but actually looking for any letters a through z. Just as, within the brackets, the `-` is not taken literally in the cases of a-z or 0-9. 
+Brackets `[]` allow a regex to match specific characters in a range. Therefore `[a-z]` is not looking for a or - or z, but actually looking for any letters a through z. Just as, within the brackets, the `-` is not taken literally in the cases of a-z or 0-9. 
 
 
 ### Character Classes
