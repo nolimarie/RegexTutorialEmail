@@ -1,4 +1,4 @@
-# Regex Tutorial - Matching an Email
+# Regex Tutorial
 
 Regex is short for regular expression, which is sequence of characters that searches for matching values/patterns within a string.
 
@@ -76,5 +76,4 @@ The `\` before the dot `.` “escapes” this character indicating that the dot 
 
 Nicole Lucena
 (https://github.com/nolimarie)
-
 
